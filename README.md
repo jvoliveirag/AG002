@@ -27,3 +27,5 @@ python main.py
 ```
 3. Ao executar serão exibidas as métricas e, em seguida, serão solicitados os valores para realizar a predição do empréstimo;
 4. Alguns valores "pré-definidos" podem ser encontrados como comentário no arquivo "inputs" e usados como exemplo.
+
+### OBS.: O Vídeo contendo a explicação do projeto encontra-se <a href="https://vimeo.com/772784740">aqui</a>.
