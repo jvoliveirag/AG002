@@ -12,9 +12,18 @@ Este trabalho foi desenvolvido pelos alunos dos cursos de graduação em Engenha
  - O conjunto de dados foi obtido do <a href="https://archive.ics.uci.edu/ml/datasets/South+German+Credit+%28UPDATE%29">UCI Machine Learning Repository</a>;
  - Os atributos estão em alemão, e os dados estão codificados de acordo com uma <a href="https://raw.githubusercontent.com/marcelovca90-inatel/AG002/main/codetable.txt">codetable</a>.
 
-## Tecnologias e recursos
+## Tecnologias e recursos 🚀
 - MySql
 - Python
     - Pandas
     - Scikit learn
 - Decision Tree
+
+## Como executar ⚙️
+1. Clone este repositório em sua máquina;
+2. No terminal, no diretório do arquivo "main.py", digite o seguinte comando:
+```
+python main.py
+```
+3. Ao executar serão exibidas as métricas e, em seguida, serão solicitados os valores para realizar a predição do empréstimo;
+4. Alguns valores "pré-definidos" podem ser encontrados como comentário no arquivo "inputs" e usados como exemplo.
