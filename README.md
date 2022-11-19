@@ -14,7 +14,7 @@ Este trabalho foi desenvolvido pelos alunos dos cursos de graduação em Engenha
 
 ## Tecnologias e recursos 🚀
 - MySql
-- Python
+- Python (v3.10.4)
     - Pandas
     - Scikit learn
 - Decision Tree
